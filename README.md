@@ -1,4 +1,4 @@
-# SQL-Based-Student-Management-System
+# SQL-Based Data Exploration and Analysis
 
 This repository contains a project that demonstrates SQL-based data exploration and manipulation using an in-memory SQLite database. The project focuses on creating schemas, inserting data, and performing various SQL queries to analyze and extract insights from the data.
 
