@@ -35,7 +35,7 @@ The project uses an **in-memory SQLite database** to make it lightweight and eas
 ---
 
 ## 📂 **Files in the Repository**
-1. **`STUDENT_MANAGEMENT_SYSTEM_SQL.ipynb`**: Jupyter Notebook containing Python code to create an SQLite in-memory database, insert data, and execute SQL queries.
+1. **`SQL-Based Data Exploration and Analysis.ipynb`**: Jupyter Notebook containing Python code to create an SQLite in-memory database, insert data, and execute SQL queries.
 2. **Sample Datasets**:
    - The datasets are created programmatically within the notebook (no external files are required).
 
